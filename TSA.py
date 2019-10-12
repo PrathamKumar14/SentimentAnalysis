@@ -7,7 +7,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import string
 import nltk
-import warnings 
+#import warnings
+import warnings
+warnings.filterwarnings('ignore')
 
 
 # Loading Datasets
